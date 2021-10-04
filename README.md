@@ -41,3 +41,9 @@ prose, the code, and all plots.
     Then, update the plot to be as ugly as possible. You will probably want to play
     around with theme options, colors, fonts, etc. The ultimate goal is the 
     ugliest possible plot, and the sky is the limit!
+
+3.  To be posted.
+
+4.  To be posted.
+
+5.  To be posted.
