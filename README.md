@@ -1,7 +1,5 @@
 # homework-03
 
----
-
 For any exercise where you’re writing code, insert a code chunk and make
 sure to label the chunk. Use a short and informative label. For any
 exercise where you’re creating a plot, make sure to label all axes,
