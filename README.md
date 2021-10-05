@@ -51,13 +51,13 @@ prose, the code, and all plots.
     <img src="images/median-housing-1-1.png" width="90%" />
 
     -   Identify recessions that happened during the time frame of the
-        median_housing dataset. Do this by adding a new variable to
+        `median_housing` dataset. Do this by adding a new variable to
         recessions that takes the value TRUE if the recession happened
         during this time frame and FALSE if not.
 
     -   Now recreate the following visualization. The shaded areas are
         recessions that happened during the time frame of the
-        median_housing dataset. Hint: The shaded areas are “behind” the
+        `median_housing` dataset. Hint: The shaded areas are “behind” the
         line.
 
     <img src="images/median-housing-2-1.png" width="90%" />
