@@ -1,0 +1,37 @@
+---
+title: "Homework 03"
+author: "INSERT YOUR NAME HERE"
+output: github_document
+---
+
+```{r load-packages, message = FALSE}
+library(tidyverse)
+# add any other packages you use here
+```
+
+
+1.  **Thank you.**
+
+```{r label-me-1}
+
+```
+
+2.  **Mirror, mirror on the wall, who’s the ugliest of them all?**
+
+```{r label-me-2}
+
+```
+
+3.  **Median housing prices in the US.**
+
+```{r label-me-3}
+
+```
+
+4.  **Adopt, don’t shop.**
+
+```{r label-me-4}
+
+```
+
+5.  **To annotate, or not to annotate?**
