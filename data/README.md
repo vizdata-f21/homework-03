@@ -1,0 +1,4 @@
+- `dog_travel.csv`: https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-12-17
+- `median_housing.csv`: https://fred.stlouisfed.org/series/MSPUS
+- `recessions.csv`: https://fredhelp.stlouisfed.org/fred/data/understanding-the-data/recession-bars/
+- ``state-list.csv`: Created using `state.abb` and `state.name`
