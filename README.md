@@ -8,7 +8,7 @@ you’re including a description and/or interpretation, use full
 sentences. Make a commit at least after finishing each exercise, or
 better yet, more frequently. Push your work regularly to GitHub. Once
 you’re done, inspect your GitHub repo to make sure it has all the
-components you want to submit in the `hw-03.md` file, including the
+components you want to submit in the `homework-03.md` file, including the
 prose, the code, and all plots.
 
 1.  **Thank you.** Make a plot that says “Thank you” on it. Get
@@ -95,7 +95,7 @@ prose, the code, and all plots.
 
     -   Interpret the visualization.
 
-5.  **To annotate, or not to annotate.** There are two ways you can get
+5.  **To annotate, or not to annotate?** There are two ways you can get
     text on a ggplot: `geom_text()` and `annoate(geom = "text")`. Which
     one should you use when? *Hint:* Watch [this
     video](https://www.rstudio.com/resources/rstudioglobal-2021/always-look-on-the-bright-side-of-plots/)
